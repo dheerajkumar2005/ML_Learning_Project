@@ -11,9 +11,12 @@ This is not an exhaustive set of resources, you will definitely need to look ove
 ## Python Libraries Resources
 Here you only need to remember a few basics in Numpy, Matplotlib, and Pandas. For most of the syntax and functions, you will need to refer to the documentation or just Google it
 - Numpy - https://www.w3schools.com/python/numpy/numpy_intro.asp; go through the Numpy Tutorial section
-- Pandas - https://www.w3schools.com/python/pandas/pandas_intro.asp; go through Pandas Tutorial, Cleaning Data, Correlations sections
+- Pandas - https://www.kaggle.com/learn/pandas; go through all sections to thoroughly understand the use of various functions and techniques for efficient data manipulation.
 - Matplotlib- https://www.w3schools.com/python/matplotlib_intro.asp; go through Python Matplotlib section, here don't spend much time just go through the stuff and make sure you can plot simple line plots, scatterplots, bars, and histograms
 
+## VS Code Setup
+- For installing VS Code in your system refer https://code.visualstudio.com/docs/setup/setup-overview
+- To setup python in VS refer https://code.visualstudio.com/docs/python/python-quick-start
 ## Work Plan
 - You may spend 2-3 days on python, 1-2 days on Python Libraries
 - Spend more time on solving the assignments, you will be learning many things while solving only
