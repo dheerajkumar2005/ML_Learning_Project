@@ -1,3 +1,11 @@
+## Python Setup
+- https://realpython.com/installing-python/ </br> refer to this link for installing python in your system
+
+## VS Code Setup
+- For installing VS Code in your system refer https://code.visualstudio.com/docs/setup/setup-overview
+- Watch this short video on how to use VS Code https://www.youtube.com/watch?v=B-s71n0dHUk&t=267s&ab_channel=VisualStudioCode
+- Download and import the vscode profile in the home page of this repository, this contains almost all the required extensions. Refer to the below video https://www.youtube.com/watch?v=wnd-FJuHFuM&t=1s&ab_channel=TroubleChuteLinux
+
 ## Python Resources
 - https://www.w3schools.com/python/python_intro.asp ; this is a pretty good resource for python
   - All sub-sections in the Python Tutorial section except inheritance, iterators, Polymorphism, Dates, JSON, and regex; I expect you to go thoroughly through these sections
@@ -14,9 +22,7 @@ Here you only need to remember a few basics in Numpy, Matplotlib, and Pandas. Fo
 - Pandas - https://www.kaggle.com/learn/pandas; go through all sections to thoroughly understand the use of various functions and techniques for efficient data manipulation.
 - Matplotlib- https://www.w3schools.com/python/matplotlib_intro.asp; go through Python Matplotlib section, here don't spend much time just go through the stuff and make sure you can plot simple line plots, scatterplots, bars, and histograms
 
-## VS Code Setup
-- For installing VS Code in your system refer https://code.visualstudio.com/docs/setup/setup-overview
-- To setup python in VS refer https://code.visualstudio.com/docs/python/python-quick-start
+
 ## Work Plan
 - You may spend 2-3 days on python, 1-2 days on Python Libraries
 - Spend more time on solving the assignments, you will be learning many things while solving only
