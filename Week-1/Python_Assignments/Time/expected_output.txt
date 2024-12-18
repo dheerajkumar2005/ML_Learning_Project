@@ -4,24 +4,24 @@ Constructor with two arguments called for (3,30)
 t1 = 7 hours, 4.5 minutes
 t2 = 3 hours, 30 minutes
 current count: 2
-Constructor with two arguments called for (10.0,34.5)
-t1 + t2 = 10.0 hours, 34.5 minutes
-Constructor with two arguments called for (3.0,34.5)
-t1 - t2 = 3.0 hours, 34.5 minutes
-Constructor with two arguments called for (35.0,22.5)
-t1 * scalar = 35.0 hours, 22.5 minutes
+Constructor with two arguments called for (10,34.5)
+t1 + t2 = 10 hours, 34.5 minutes
+Constructor with two arguments called for (3,34.5)
+t1 - t2 = 3 hours, 34.5 minutes
+Constructor with two arguments called for (35,22.5)
+t1 * scalar = 35 hours, 22.5 minutes
 current count: 5
 Constructor with two arguments called for (0,42.0)
 t2 / scalar = 0 hours, 42.0 minutes
 Default Constructor called
-t3 = 1.0 hours, 40.5 minutes
-Constructor with two arguments called for (3.0,20.5)
-Destructor called for (1.0,40.5)
-t3 += 100: 3.0 hours, 20.5 minutes
+t3 = 1 hours, 40.5 minutes
+Constructor with two arguments called for (3,20.5)
+Destructor called for (1,40.5)
+t3 += 100: 3 hours, 20.5 minutes
 current count: 7
-Constructor with two arguments called for (2.0,10.5)
-Destructor called for (3.0,20.5)
-t3 -= 70: 2.0 hours, 10.5 minutes
+Constructor with two arguments called for (2,10.5)
+Destructor called for (3,20.5)
+t3 -= 70: 2 hours, 10.5 minutes
 t3 is not less than 100
 t3 is greater than 100
 t1 is not less than t2
@@ -30,8 +30,8 @@ t1 is not equal to t3
 current count: 7
 Destructor called for (7,4.5)
 Destructor called for (3,30)
-Destructor called for (10.0,34.5)
-Destructor called for (3.0,34.5)
-Destructor called for (35.0,22.5)
+Destructor called for (10,34.5)
+Destructor called for (3,34.5)
+Destructor called for (35,22.5)
 Destructor called for (0,42.0)
-Destructor called for (2.0,10.5)
+Destructor called for (2,10.5)
