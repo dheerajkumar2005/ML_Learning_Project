@@ -1,8 +1,8 @@
 current count: 0
 Constructor with two arguments called for (7,4.5)
-Constructor with two arguments called for (3,30)
+Constructor with two arguments called for (3,30.0)
 t1 = 7 hours, 4.5 minutes
-t2 = 3 hours, 30 minutes
+t2 = 3 hours, 30.0 minutes
 current count: 2
 Constructor with two arguments called for (10,34.5)
 t1 + t2 = 10 hours, 34.5 minutes
@@ -29,7 +29,7 @@ t3 is not greater than t2
 t1 is not equal to t3
 current count: 7
 Destructor called for (7,4.5)
-Destructor called for (3,30)
+Destructor called for (3,30.0)
 Destructor called for (10,34.5)
 Destructor called for (3,34.5)
 Destructor called for (35,22.5)
