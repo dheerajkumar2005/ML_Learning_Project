@@ -61,14 +61,14 @@ For enhanced understanding, optional labs are included in the course. While you 
 ### Linear Regression
 
 
-- [Week 1]
+- [Week 1](https://github.com/dheerajkumar2005/WIDS_Introduction_to_Machine_Learning/tree/master/Week-2/week1)
   
     - [Model Representation]
     - [Cost Function]
     - [Gradient Descent]
 <br/>
 
-- [Week 2]
+- [Week 2](https://github.com/dheerajkumar2005/WIDS_Introduction_to_Machine_Learning/tree/master/Week-2/week2)
     
   - [Numpy Vectorization]
   - [Multi Variate Regression]
@@ -80,7 +80,7 @@ For enhanced understanding, optional labs are included in the course. While you 
 <br/>
 
 ### Logistic Regression
-- [Week 3]
+- [Week 3](https://github.com/dheerajkumar2005/WIDS_Introduction_to_Machine_Learning/tree/master/Week-2/week3)
    - [Classification]
    - [Sigmoid Function]
    - [Decision Boundary]
@@ -94,7 +94,7 @@ For enhanced understanding, optional labs are included in the course. While you 
      
 
 ### How to run the labs:
-- Clone (pull) the entire resources of this week using the command 'git clone URL'.
+- Clone (pull) the entire resources of this week using the command 'git clone https://github.com/dheerajkumar2005/WIDS_Introduction_to_Machine_Learning'.
 - If you want to open for example some lab in week1. Go to week1 folder.
 - **For VSCode users:** open the optional Labs in week1 folder in VS code and run the notebook as usual.
 - **For Colab/Jupyter Notebook:** Use should upload the entire folder Optional Labs(In this example Optional labs in week1).And then you can run the notebook.
