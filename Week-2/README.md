@@ -9,13 +9,16 @@
 - Then you will see enroll for free option click on it.
 - When a window appears showing the subscription options, scroll to the bottom and select the "Audit the Course" option.
 - By auditing the course, you will gain free access to the videos.
-
+## What we expect from you
+- Watch all videos of the course
+- Run the labs provided and understand and appreciate how the code / specific algorithm like gradient descent works
+- It is better if you can write the optional labs code on your own after understanding the code
+- See the optional labs on scikit learn after you complete all other labs
+- The assignment will be shared soon, but it will be based on the labs you have done
+- For now start with the resouces provided, we will be providing more resources in the coming days
+- If you have any doubts, you can ask in the group or DM the mentors
 ## Getting started with Machine Learning
 After completion of week-1 , we learned basics needed for ML i.e. Python and its Libraries. In this week we will start Machine learning.
-Introduction  about ML :
-- [Welcome to ML](https://www.coursera.org/learn/machine-learning/lecture/iYR2y/welcome-to-machine-learning)
-- [Applications of ML](https://www.coursera.org/learn/machine-learning/lecture/IjrpM/applications-of-machine-learning)
-
 
 ### **Supervised Learning**
 
@@ -70,7 +73,6 @@ For enhanced understanding, optional labs are included in the course. While you 
 
 - [Week 2](https://github.com/dheerajkumar2005/WIDS_Introduction_to_Machine_Learning/tree/master/Week-2/week2)
     
-  - [Numpy Vectorization]
   - [Multi Variate Regression]
   - [Feature Scaling]
   - [Feature Engineering]
