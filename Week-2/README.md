@@ -104,3 +104,26 @@ For enhanced understanding, optional labs are included in the course. While you 
 ### Note :
 In the labs there will be some code used for visualisation just focus on the required code.
 
+## Assignment
+#### Linear Regression
+  - Implement Linear Regression using Gradient Descent from scratch
+  - You will be using the dataset provided in the assignment folder, i.e. you need to predict the performance index of students based on other attributes.
+  - You need to implement the model from scratch just using numpy for building the model, you can use any other library for data manipulation and visualization (prepossessing)
+  - Use first 90% of the data for training and the remaining 10% for testing 
+  - Report RMSE on the test data for model evaluation (you can use any library for this)
+  - Your goal is to RSME as low as possible, so try to experiment with all the concepts you have learned till now.
+  - Implement the code in .ipynb file and submit it
+#### Logistic Regression
+  - Implement Logistic Regression using Gradient Descent from scratch
+  - You will be using the dataset provided in the assignment folder, i.e. you need to predict whether the last column is 1 or 0 based on other attributes.
+  - You need to implement the model from scratch just using numpy for building the model, you can use any other library for data manipulation and visualization (prepossessing)
+  - Use first 90% of the data for training and the remaining 10% for testing
+  - Report accuracy of your model (percentage of data points classified correctly) along with the percentage false negatives (numbers of false negatives /number of positives) and percentage false positives(number of false positives/number of negatives)
+  - Implement the code in .ipynb file and submit it
+#### Optional Assignments
+  1) Implement the above two models using scikit learn library and compare the results with the above models
+  2) Instead of using Batch Gradient Descent (this is the one taught to you in videos), use Stochastic Gradient Descent or mini-batch Gradient descent and compare the results, refer these
+  - https://towardsdatascience.com/batch-mini-batch-stochastic-gradient-descent-7a62ecba642a
+  - https://www.analyticsvidhya.com/blog/2021/03/variants-of-gradient-descent-algorithm/
+  - https://medium.com/@amannagrawall002/batch-vs-stochastic-vs-mini-batch-gradient-descent-techniques-7dfe6f963a6f
+  
