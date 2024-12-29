@@ -12,7 +12,7 @@ Last week, we focused on predicting data using regression models. This week, weâ
 
 This week we will focus on ANN's. The labs for each respective week are listed below, with instructions on how to execute them at the end .
 
-- [Week 1](/C2%20-%20Advanced%20Learning%20Algorithms/week1)
+- [Week 1](https://github.com/dheerajkumar2005/WIDS_Introduction_to_Machine_Learning/tree/master/Week-3/week1)
 
    - [Neurons and Layers]
    - [Coffee Roasting]
@@ -21,7 +21,7 @@ This week we will focus on ANN's. The labs for each respective week are listed b
 
   <br/>
 
-- [Week 2](/C2%20-%20Advanced%20Learning%20Algorithms/week2)
+- [Week 2](https://github.com/dheerajkumar2005/WIDS_Introduction_to_Machine_Learning/tree/master/Week-3/week2)
   
     - [RElu]
     - [Softmax]
